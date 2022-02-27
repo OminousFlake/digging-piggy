@@ -1,5 +1,10 @@
 # digging-piggy
 
+### Tech stack
+- React with SSR
+- Redux
+- Webpack
+
 ### Branch naming: ###
 - main branch name: `main`
 - new branch name: `TASK_NUMBER-extra-words`, e.g. 1-Piggy-moves
