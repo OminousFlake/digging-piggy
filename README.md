@@ -3,6 +3,7 @@
 ### Tech stack
 - React with SSR
 - Redux
+- CSS modules, no pre/post-processors
 - Webpack
 
 ### Branch naming: ###
