@@ -1,0 +1,12 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+.app {
+    width: 100%;
+    max-width: 1400px;
+    background-color: pink;
+    margin: 0 auto;
+}
